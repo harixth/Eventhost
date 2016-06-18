@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_f4fc7b4560ec53a07879f8a03842b55e9448fce7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_a1265a82098c415ee54ec6ab44d77cf8dc2ed40f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="926863e84cf3bba103adbd37ccdd2825fd7af7d8">
+        <dex dex="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_708f3ec988c4ddaac132d198e213545cc4444539/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Harixth/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_ba71bb81666086d204b10b1fd264c12e4a0fd409/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_82434fe91f71279f43641da4e0116d5c74d5f490/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.1.0_e438252a900a10397550ede1a7390e22ca8b811a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_1cff5bb4aee4a27b8307b160978c29a6da512a8f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_ad22e22e8eb83aa4f1c910cd010a0770926f1031/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_8f83f19906269d9c81da440643362980cb2acfd2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="644eb8c05f6ae10f8ccac9263383a005b98ed0ff">
+        <dex dex="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48a1f4c4c2e03ee965ad101d8964e73cc3da9bab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Harixth/Documents/AndroidStudioProjects/EventHost/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_86ec4730c4531215a3f28975ff08e48da4776497/classes.dex" />
+    </item>
+
+</items>
